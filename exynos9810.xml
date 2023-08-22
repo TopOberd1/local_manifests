@@ -23,7 +23,7 @@
 
 <remote name="vortex-kernel"
           fetch="https://github.com/TopOberd1"
-          revision="vortex" />
+          revision="vortex-ksu" />
           
 <remote name="vortex-tree"
           fetch="https://github.com/TopOberd1"
